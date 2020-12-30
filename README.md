@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Quentin :)
+### Hi there 👋, I'm Quentin :)
 
 
 
