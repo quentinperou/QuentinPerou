@@ -1,15 +1,13 @@
-### Hi there 👋, I'm Quentin :)
+### Hi 👋, I'm Quentin :)
 
 I'm a student in the digital and audiovisual field in France.
 
 
 ---
 
-My portfolio : https://quentinperou.fr
-
-My Twitch : https://twitch.tv/quentinperou
-
-My Twitter : https://twitter.com/quentinperou
+* My portfolio : https://quentinperou.fr
+* My Twitch : https://twitch.tv/quentinperou
+* My Twitter : https://twitter.com/quentinperou
 
 
 
