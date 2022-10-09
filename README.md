@@ -1,6 +1,5 @@
 ### Hi 👋, I'm Quentin :)
 
-I'm a student in the digital and audiovisual field in France.
 
 
 ---
