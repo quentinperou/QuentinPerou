@@ -1,12 +1,12 @@
-### Hi 👋, I'm Quentin :)
+### Salut 👋, moi c'est Quentin :)
 
 
 
 ---
 
-* My portfolio : https://quentinperou.fr
-* My Twitch : https://twitch.tv/quentinperou
-* My Twitter : https://twitter.com/quentinperou
+* Mon portfolio : https://quentinperou.fr
+* Mon Twitch : https://twitch.tv/quentinperou
+* Mon Twitter : https://twitter.com/quentinperou
 
 
 
